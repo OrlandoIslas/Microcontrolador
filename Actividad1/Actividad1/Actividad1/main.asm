@@ -1,9 +1,8 @@
 ;
-; AssemblerApplication1.asm
+; Actividad1.asm
 ;
-; Created: 30/09/2026 03:54:45 p. m.
-; Author : abomi
-;
+; Created: 30/09/2026 08:04:24 p. m.
+; Author : Orlando Islas
 
 .cseg
 .org 0x00
